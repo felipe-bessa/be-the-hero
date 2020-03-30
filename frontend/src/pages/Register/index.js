@@ -8,7 +8,7 @@ import logoImg from '../../assets/logo.svg';
 
 export default function Register() {
   return(
-    <div className="register-container">
+    <div className="container">
       <div className="content">
         <section>
           <img src={logoImg} alt="Be The Hero" />
