@@ -4,7 +4,7 @@
   "description": "Aplicação para conectar pessoas necessitadas a  pessoas dispostas a ajudar. Seja um herói você também! ",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon src/index.js",
+    "start": "nodemon src/server.js",
     "test": "cross-env NODE_ENV=test && jest"
   },
   "author": "Felipe Bessa Souto de Almeida",
